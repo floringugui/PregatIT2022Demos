@@ -8,8 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Encapsulation\" />
-    <Folder Include="Abstraction\" />
     <Folder Include="Polymorphism\" />
   </ItemGroup>
 
