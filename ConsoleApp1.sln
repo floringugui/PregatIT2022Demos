@@ -15,17 +15,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableTypes", "NullableTy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuples", "Tuples\Tuples.csproj", "{4C94C6C5-9FB1-4C1F-9396-4ECD2FD53559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutRefInParams", "OutRefInParams\OutRefInParams.csproj", "{ED2E59B4-0B35-4693-AA9C-09116E8F438D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutRefInParams", "OutRefInParams\OutRefInParams.csproj", "{ED2E59B4-0B35-4693-AA9C-09116E8F438D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefValueTypes", "RefValueTypes\RefValueTypes.csproj", "{224E916C-81CB-45C1-9340-9C0DA9DEFB75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefValueTypes", "RefValueTypes\RefValueTypes.csproj", "{224E916C-81CB-45C1-9340-9C0DA9DEFB75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalAndNamedParams", "OptionalAndNamedParams\OptionalAndNamedParams.csproj", "{84643CB2-09A5-48CB-B892-D90632C260AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalAndNamedParams", "OptionalAndNamedParams\OptionalAndNamedParams.csproj", "{84643CB2-09A5-48CB-B892-D90632C260AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload", "Overload\Overload.csproj", "{2E512F08-51F0-4A8E-AB38-C16FF156ED30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overload", "Overload\Overload.csproj", "{2E512F08-51F0-4A8E-AB38-C16FF156ED30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{50D979B9-F785-411F-9A93-57878689390A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP", "OOP\OOP.csproj", "{50D979B9-F785-411F-9A93-57878689390A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyProject", "DummyProject\DummyProject.csproj", "{F1B355EA-6439-49EA-BFDF-2F44C79860EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DummyProject", "DummyProject\DummyProject.csproj", "{F1B355EA-6439-49EA-BFDF-2F44C79860EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{3928ECB9-14E3-4142-8CF3-E15D141EFF76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{96D5168B-EB87-40EF-88B2-5BD4960195F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{F1B355EA-6439-49EA-BFDF-2F44C79860EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1B355EA-6439-49EA-BFDF-2F44C79860EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1B355EA-6439-49EA-BFDF-2F44C79860EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3928ECB9-14E3-4142-8CF3-E15D141EFF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3928ECB9-14E3-4142-8CF3-E15D141EFF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3928ECB9-14E3-4142-8CF3-E15D141EFF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3928ECB9-14E3-4142-8CF3-E15D141EFF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D5168B-EB87-40EF-88B2-5BD4960195F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D5168B-EB87-40EF-88B2-5BD4960195F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D5168B-EB87-40EF-88B2-5BD4960195F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D5168B-EB87-40EF-88B2-5BD4960195F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
